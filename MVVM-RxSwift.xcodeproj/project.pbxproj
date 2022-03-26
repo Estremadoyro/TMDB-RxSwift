@@ -29,6 +29,7 @@
 		A740234327EAEE760065F640 /* MovieDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = A740234227EAEE760065F640 /* MovieDetail.swift */; };
 		A740234527EBEB100065F640 /* NetworkRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = A740234427EBEB100065F640 /* NetworkRequest.swift */; };
 		A740234727EC36390065F640 /* HomeProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = A740234627EC36390065F640 /* HomeProtocol.swift */; };
+		A7DF1AA327EED2960030DA50 /* Keys.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7DF1AA227EED2960030DA50 /* Keys.swift */; };
 		F786246FA7ADD06170B0B7DC /* Pods_MVVM_RxSwift.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 06BFFD6502526C49B229AEBA /* Pods_MVVM_RxSwift.framework */; };
 /* End PBXBuildFile section */
 
@@ -60,6 +61,7 @@
 		A740234227EAEE760065F640 /* MovieDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieDetail.swift; sourceTree = "<group>"; };
 		A740234427EBEB100065F640 /* NetworkRequest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkRequest.swift; sourceTree = "<group>"; };
 		A740234627EC36390065F640 /* HomeProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeProtocol.swift; sourceTree = "<group>"; };
+		A7DF1AA227EED2960030DA50 /* Keys.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Keys.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -188,6 +190,7 @@
 			children = (
 				A740232127E90E8A0065F640 /* ManagerConnections.swift */,
 				A740234427EBEB100065F640 /* NetworkRequest.swift */,
+				A7DF1AA227EED2960030DA50 /* Keys.swift */,
 			);
 			path = NetworkManager;
 			sourceTree = "<group>";
@@ -391,6 +394,7 @@
 				A7299A7D27E8D84F001DDCC8 /* HomeRouter.swift in Sources */,
 				A740232727E97C8C0065F640 /* MovieCell.swift in Sources */,
 				A740234027EAECBF0065F640 /* DetailRouter.swift in Sources */,
+				A7DF1AA327EED2960030DA50 /* Keys.swift in Sources */,
 				A740232427E90FB70065F640 /* Movies.swift in Sources */,
 				A7299A5F27E8D60E001DDCC8 /* AppDelegate.swift in Sources */,
 				A740232E27E98CBC0065F640 /* Extensions.swift in Sources */,
