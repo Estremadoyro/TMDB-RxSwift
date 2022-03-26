@@ -9,7 +9,7 @@ import Foundation
 
 // https://api.themoviedb.org/3/movie/popular?api_key=070fd999c946b0f734ad2cb151c99fcb
 enum Constants {
-  static let apiKey = "070fd999c946b0f734ad2cb151c99fcb"
+  static let apiKey = Keys.apiKey
   static let apiVersion = "3/"
 
   enum URL {
